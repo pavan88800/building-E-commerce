@@ -1,0 +1,15 @@
+nav > ul {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  display: flex;
+  font-size: 20px;
+  justify-content: space-around;
+  background-color: #000;
+}
+a {
+  color: #fff !important;
+}
+ul > li {
+  padding: 14px;
+  list-style: none;
+  text-decoration: none;
+}
